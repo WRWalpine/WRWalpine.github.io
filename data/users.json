@@ -1,14 +1,17 @@
 [
   {
     "id": 115126338,
-    "name": "William Ramirez-Watson"
+    "name": "William Ramirez-Watson",
+    "task: "Make pumkpin spice latte" 
   },
   {
   "id": 115190838,
-   "name": "Lauren Hartz "
+   "name": "Lauren Hartz ",
+    "task: "Carve Jack-O-lantern" 
   },
     {
   "id": 10,
-   "name": "Banana "
+   "name": "Banana ",
+   "task: "Be a Banana" 
   }
 ]
