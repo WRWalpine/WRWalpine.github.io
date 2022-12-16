@@ -1,24 +1,6 @@
-[
+
     {
     "greeting": "Hello USA",
     "language": "English",
     "donut": "Maple bar"
-},
-{
-    "greeting": "Hola Mexico",
-    "language": "Spanish",
-    "donut": "Concha"
-    
-},
-{
-    "greeting": "Hello Canada",
-    "language": "English but Canadian",
-    "donut": "Anything from Tim Hortons"
-},
-{
-    "greeting": "Hello person not in North America",
-    "language": "Language unknown",
-    "donut": "Pastry unknown"
-
 }
-]
